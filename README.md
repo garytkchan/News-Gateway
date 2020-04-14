@@ -6,4 +6,4 @@ news sources by tabbing the news.
 
 ### Quick Start
 
-Run the app with Android Studios
+Run the app with Android Studio
